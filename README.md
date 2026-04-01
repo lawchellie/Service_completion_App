@@ -1,4 +1,4 @@
-### Job Completion Certificate Digitization System
+# Job Completion Certificate Digitization System
 
 This app presents the design and implementation of a digital solution developed to automate the preparation of Job Completion Certificates. The system replaces a previously manual, paper-based process with a streamlined digital workflow, improving efficiency, accuracy, and document management.
 
